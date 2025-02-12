@@ -1,0 +1,14 @@
+F:\cmd\практика 1\bin\Debug\net8.0\практика 1.exe
+F:\cmd\практика 1\bin\Debug\net8.0\практика 1.deps.json
+F:\cmd\практика 1\bin\Debug\net8.0\практика 1.runtimeconfig.json
+F:\cmd\практика 1\bin\Debug\net8.0\практика 1.dll
+F:\cmd\практика 1\bin\Debug\net8.0\практика 1.pdb
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.AssemblyInfoInputs.cache
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.AssemblyInfo.cs
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.csproj.CoreCompileInputs.cache
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.dll
+F:\cmd\практика 1\obj\Debug\net8.0\refint\практика 1.dll
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.pdb
+F:\cmd\практика 1\obj\Debug\net8.0\практика 1.genruntimeconfig.cache
+F:\cmd\практика 1\obj\Debug\net8.0\ref\практика 1.dll
