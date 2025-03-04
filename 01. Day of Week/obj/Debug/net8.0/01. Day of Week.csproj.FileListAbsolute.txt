@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.AssemblyInfo.cs
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\01. Day of Week\bin\Debug\net8.0\01. Day of Week.exe
+F:\cmd\teory 3week\01. Day of Week\bin\Debug\net8.0\01. Day of Week.deps.json
+F:\cmd\teory 3week\01. Day of Week\bin\Debug\net8.0\01. Day of Week.runtimeconfig.json
+F:\cmd\teory 3week\01. Day of Week\bin\Debug\net8.0\01. Day of Week.dll
+F:\cmd\teory 3week\01. Day of Week\bin\Debug\net8.0\01. Day of Week.pdb
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.dll
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\refint\01. Day of Week.dll
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.pdb
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\01. Day of Week.genruntimeconfig.cache
+F:\cmd\teory 3week\01. Day of Week\obj\Debug\net8.0\ref\01. Day of Week.dll

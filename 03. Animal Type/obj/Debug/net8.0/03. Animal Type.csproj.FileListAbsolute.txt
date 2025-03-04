@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.AssemblyInfo.cs
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\03. Animal Type\bin\Debug\net8.0\03. Animal Type.exe
+F:\cmd\teory 3week\03. Animal Type\bin\Debug\net8.0\03. Animal Type.deps.json
+F:\cmd\teory 3week\03. Animal Type\bin\Debug\net8.0\03. Animal Type.runtimeconfig.json
+F:\cmd\teory 3week\03. Animal Type\bin\Debug\net8.0\03. Animal Type.dll
+F:\cmd\teory 3week\03. Animal Type\bin\Debug\net8.0\03. Animal Type.pdb
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.dll
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\refint\03. Animal Type.dll
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.pdb
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\03. Animal Type.genruntimeconfig.cache
+F:\cmd\teory 3week\03. Animal Type\obj\Debug\net8.0\ref\03. Animal Type.dll
