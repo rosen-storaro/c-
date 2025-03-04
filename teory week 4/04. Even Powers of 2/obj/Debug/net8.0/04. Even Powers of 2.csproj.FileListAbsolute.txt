@@ -1,0 +1,14 @@
+F:\cmd\teory week 4\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.exe
+F:\cmd\teory week 4\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.deps.json
+F:\cmd\teory week 4\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.runtimeconfig.json
+F:\cmd\teory week 4\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.dll
+F:\cmd\teory week 4\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.pdb
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.AssemblyInfo.cs
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.dll
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\refint\04. Even Powers of 2.dll
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.pdb
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.genruntimeconfig.cache
+F:\cmd\teory week 4\04. Even Powers of 2\obj\Debug\net8.0\ref\04. Even Powers of 2.dll

@@ -1,0 +1,4 @@
+F:\cmd\teory week 5\01. Read Text\obj\Debug\net8.0\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 5\01. Read Text\obj\Debug\net8.0\01. Read Text.AssemblyInfoInputs.cache
+F:\cmd\teory week 5\01. Read Text\obj\Debug\net8.0\01. Read Text.AssemblyInfo.cs
+F:\cmd\teory week 5\01. Read Text\obj\Debug\net8.0\01. Read Text.csproj.CoreCompileInputs.cache

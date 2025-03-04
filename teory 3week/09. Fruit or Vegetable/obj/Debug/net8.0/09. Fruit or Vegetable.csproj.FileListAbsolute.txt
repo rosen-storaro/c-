@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.exe
+F:\cmd\teory 3week\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.deps.json
+F:\cmd\teory 3week\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.runtimeconfig.json
+F:\cmd\teory 3week\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.dll
+F:\cmd\teory 3week\09. Fruit or Vegetable\bin\Debug\net8.0\09. Fruit or Vegetable.pdb
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.AssemblyInfo.cs
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.dll
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\refint\09. Fruit or Vegetable.dll
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.pdb
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\09. Fruit or Vegetable.genruntimeconfig.cache
+F:\cmd\teory 3week\09. Fruit or Vegetable\obj\Debug\net8.0\ref\09. Fruit or Vegetable.dll

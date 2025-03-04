@@ -1,0 +1,14 @@
+F:\cmd\teory week 5\04. Sequence 2k+1\bin\Debug\net8.0\04. Sequence 2k+1.exe
+F:\cmd\teory week 5\04. Sequence 2k+1\bin\Debug\net8.0\04. Sequence 2k+1.deps.json
+F:\cmd\teory week 5\04. Sequence 2k+1\bin\Debug\net8.0\04. Sequence 2k+1.runtimeconfig.json
+F:\cmd\teory week 5\04. Sequence 2k+1\bin\Debug\net8.0\04. Sequence 2k+1.dll
+F:\cmd\teory week 5\04. Sequence 2k+1\bin\Debug\net8.0\04. Sequence 2k+1.pdb
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.AssemblyInfoInputs.cache
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.AssemblyInfo.cs
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.dll
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\refint\04. Sequence 2k+1.dll
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.pdb
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\04. Sequence 2k+1.genruntimeconfig.cache
+F:\cmd\teory week 5\04. Sequence 2k+1\obj\Debug\net8.0\ref\04. Sequence 2k+1.dll

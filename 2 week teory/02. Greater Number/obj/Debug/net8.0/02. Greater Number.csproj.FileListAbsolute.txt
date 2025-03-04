@@ -1,0 +1,14 @@
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfoInputs.cache
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfo.cs
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.csproj.CoreCompileInputs.cache
+F:\cmd\2 week teory\02. Greater Number\bin\Debug\net8.0\02. Greater Number.exe
+F:\cmd\2 week teory\02. Greater Number\bin\Debug\net8.0\02. Greater Number.deps.json
+F:\cmd\2 week teory\02. Greater Number\bin\Debug\net8.0\02. Greater Number.runtimeconfig.json
+F:\cmd\2 week teory\02. Greater Number\bin\Debug\net8.0\02. Greater Number.dll
+F:\cmd\2 week teory\02. Greater Number\bin\Debug\net8.0\02. Greater Number.pdb
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.dll
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\refint\02. Greater Number.dll
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.pdb
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\02. Greater Number.genruntimeconfig.cache
+F:\cmd\2 week teory\02. Greater Number\obj\Debug\net8.0\ref\02. Greater Number.dll

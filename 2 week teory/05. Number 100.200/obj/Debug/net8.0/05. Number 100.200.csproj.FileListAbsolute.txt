@@ -1,0 +1,14 @@
+F:\cmd\2 week teory\05. Number 100.200\bin\Debug\net8.0\05. Number 100.200.exe
+F:\cmd\2 week teory\05. Number 100.200\bin\Debug\net8.0\05. Number 100.200.deps.json
+F:\cmd\2 week teory\05. Number 100.200\bin\Debug\net8.0\05. Number 100.200.runtimeconfig.json
+F:\cmd\2 week teory\05. Number 100.200\bin\Debug\net8.0\05. Number 100.200.dll
+F:\cmd\2 week teory\05. Number 100.200\bin\Debug\net8.0\05. Number 100.200.pdb
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.AssemblyInfoInputs.cache
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.AssemblyInfo.cs
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.csproj.CoreCompileInputs.cache
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.dll
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\refint\05. Number 100.200.dll
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.pdb
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\05. Number 100.200.genruntimeconfig.cache
+F:\cmd\2 week teory\05. Number 100.200\obj\Debug\net8.0\ref\05. Number 100.200.dll

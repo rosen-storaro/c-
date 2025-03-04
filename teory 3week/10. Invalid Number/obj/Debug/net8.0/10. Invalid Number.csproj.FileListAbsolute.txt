@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.exe
+F:\cmd\teory 3week\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.deps.json
+F:\cmd\teory 3week\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.runtimeconfig.json
+F:\cmd\teory 3week\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.dll
+F:\cmd\teory 3week\10. Invalid Number\bin\Debug\net8.0\10. Invalid Number.pdb
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.AssemblyInfo.cs
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.dll
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\refint\10. Invalid Number.dll
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.pdb
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\10. Invalid Number.genruntimeconfig.cache
+F:\cmd\teory 3week\10. Invalid Number\obj\Debug\net8.0\ref\10. Invalid Number.dll

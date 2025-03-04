@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.exe
+F:\cmd\teory 3week\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.deps.json
+F:\cmd\teory 3week\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.runtimeconfig.json
+F:\cmd\teory 3week\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.dll
+F:\cmd\teory 3week\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.pdb
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.AssemblyInfo.cs
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.dll
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\refint\04. Personal Titles.dll
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.pdb
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.genruntimeconfig.cache
+F:\cmd\teory 3week\04. Personal Titles\obj\Debug\net8.0\ref\04. Personal Titles.dll

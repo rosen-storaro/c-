@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\cmd\\teory 3week\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97862A7-09AF-4E4C-9B30-7B21FE6660F4}|7.1 Working Hours\\7.1 Working Hours.csproj|f:\\cmd\\teory 3week\\7.1 working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97862A7-09AF-4E4C-9B30-7B21FE6660F4}|7.1 Working Hours\\7.1 Working Hours.csproj|solutionrelative:7.1 working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5750A2-25E8-49BE-840F-AD430673E59D}|07. Working Hours\\07. Working Hours.csproj|f:\\cmd\\teory 3week\\07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5750A2-25E8-49BE-840F-AD430673E59D}|07. Working Hours\\07. Working Hours.csproj|solutionrelative:07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A3AACC-AD37-46B5-B1C5-5AED2B3B7EE0}|11. Fruit Shop\\11. Fruit Shop.csproj|f:\\cmd\\teory 3week\\11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A3AACC-AD37-46B5-B1C5-5AED2B3B7EE0}|11. Fruit Shop\\11. Fruit Shop.csproj|solutionrelative:11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A3AACC-AD37-46B5-B1C5-5AED2B3B7EE0}|11. Fruit Shop\\11. Fruit Shop.csproj|f:\\cmd\\teory 3week\\11. fruit shop\\11. fruit shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76A3AACC-AD37-46B5-B1C5-5AED2B3B7EE0}|11. Fruit Shop\\11. Fruit Shop.csproj|solutionrelative:11. fruit shop\\11. fruit shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1E1142-D3D5-4871-89AD-46CB27931FAD}|12. Trade Commissions\\12. Trade Commissions.csproj|f:\\cmd\\teory 3week\\12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1E1142-D3D5-4871-89AD-46CB27931FAD}|12. Trade Commissions\\12. Trade Commissions.csproj|solutionrelative:12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ABBA0-C13A-4729-AC9D-0ADA8BAE3552}|03. Animal Type\\03. Animal Type.csproj|f:\\cmd\\teory 3week\\03. animal type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ABBA0-C13A-4729-AC9D-0ADA8BAE3552}|03. Animal Type\\03. Animal Type.csproj|solutionrelative:03. animal type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8939868B-EF7C-435B-A369-8BEE2D0F3CAB}|09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj|f:\\cmd\\teory 3week\\09. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8939868B-EF7C-435B-A369-8BEE2D0F3CAB}|09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj|solutionrelative:09. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9BE57A-F9C4-43CE-9D2B-F9AA4502DDBC}|10. Invalid Number\\10. Invalid Number.csproj|f:\\cmd\\teory 3week\\10. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9BE57A-F9C4-43CE-9D2B-F9AA4502DDBC}|10. Invalid Number\\10. Invalid Number.csproj|solutionrelative:10. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1126A697-0CEB-458F-8BE5-754A5F247162}|04. Personal Titles\\04. Personal Titles.csproj|f:\\cmd\\teory 3week\\04. personal titles\\04. personal titles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1126A697-0CEB-458F-8BE5-754A5F247162}|04. Personal Titles\\04. Personal Titles.csproj|solutionrelative:04. personal titles\\04. personal titles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2B21CE-BAF9-4907-9769-4A28B49C3583}|08. Cinema Ticket\\08. Cinema Ticket.csproj|f:\\cmd\\teory 3week\\08. cinema ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2B21CE-BAF9-4907-9769-4A28B49C3583}|08. Cinema Ticket\\08. Cinema Ticket.csproj|solutionrelative:08. cinema ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEAE909-BEB0-4840-A3E6-2873A280FEB4}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|f:\\cmd\\teory 3week\\02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEAE909-BEB0-4840-A3E6-2873A280FEB4}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|solutionrelative:02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8207347E-B4F3-441E-B685-01EAC4B6D26C}|06. Number in Range\\06. Number in Range.csproj|f:\\cmd\\teory 3week\\06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8207347E-B4F3-441E-B685-01EAC4B6D26C}|06. Number in Range\\06. Number in Range.csproj|solutionrelative:06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FCE6B-8A55-48D6-85F3-2519583FEB2E}|05. Small Shop\\05. Small Shop.csproj|f:\\cmd\\teory 3week\\05. small shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FCE6B-8A55-48D6-85F3-2519583FEB2E}|05. Small Shop\\05. Small Shop.csproj|solutionrelative:05. small shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1126A697-0CEB-458F-8BE5-754A5F247162}|04. Personal Titles\\04. Personal Titles.csproj|f:\\cmd\\teory 3week\\04. personal titles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1126A697-0CEB-458F-8BE5-754A5F247162}|04. Personal Titles\\04. Personal Titles.csproj|solutionrelative:04. personal titles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDB557A-28F4-4147-B9B2-7F5763E9DDC4}|01. Day of Week\\01. Day of Week.csproj|f:\\cmd\\teory 3week\\01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDB557A-28F4-4147-B9B2-7F5763E9DDC4}|01. Day of Week\\01. Day of Week.csproj|solutionrelative:01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\7.1 Working Hours\\Program.cs",
+              "RelativeDocumentMoniker": "7.1 Working Hours\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\7.1 Working Hours\\Program.cs",
+              "RelativeToolTip": "7.1 Working Hours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:29:46.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "11. Fruit Shop",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\11. Fruit Shop\\11. Fruit Shop.csproj",
+              "RelativeDocumentMoniker": "11. Fruit Shop\\11. Fruit Shop.csproj",
+              "ToolTip": "F:\\cmd\\teory 3week\\11. Fruit Shop\\11. Fruit Shop.csproj",
+              "RelativeToolTip": "11. Fruit Shop\\11. Fruit Shop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T12:28:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\12. Trade Commissions\\Program.cs",
+              "RelativeDocumentMoniker": "12. Trade Commissions\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\12. Trade Commissions\\Program.cs",
+              "RelativeToolTip": "12. Trade Commissions\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:49:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "04. Personal Titles.csproj",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\04. Personal Titles\\04. Personal Titles.csproj",
+              "RelativeDocumentMoniker": "04. Personal Titles\\04. Personal Titles.csproj",
+              "ToolTip": "F:\\cmd\\teory 3week\\04. Personal Titles\\04. Personal Titles.csproj",
+              "RelativeToolTip": "04. Personal Titles\\04. Personal Titles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T15:44:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\11. Fruit Shop\\Program.cs",
+              "RelativeDocumentMoniker": "11. Fruit Shop\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\11. Fruit Shop\\Program.cs",
+              "RelativeToolTip": "11. Fruit Shop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:00:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\07. Working Hours\\Program.cs",
+              "RelativeDocumentMoniker": "07. Working Hours\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\07. Working Hours\\Program.cs",
+              "RelativeToolTip": "07. Working Hours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:22:42.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\10. Invalid Number\\Program.cs",
+              "RelativeDocumentMoniker": "10. Invalid Number\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\10. Invalid Number\\Program.cs",
+              "RelativeToolTip": "10. Invalid Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:47:47.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\08. Cinema Ticket\\Program.cs",
+              "RelativeDocumentMoniker": "08. Cinema Ticket\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\08. Cinema Ticket\\Program.cs",
+              "RelativeToolTip": "08. Cinema Ticket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:34:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\06. Number in Range\\Program.cs",
+              "RelativeDocumentMoniker": "06. Number in Range\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\06. Number in Range\\Program.cs",
+              "RelativeToolTip": "06. Number in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:18:10.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\05. Small Shop\\Program.cs",
+              "RelativeDocumentMoniker": "05. Small Shop\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\05. Small Shop\\Program.cs",
+              "RelativeToolTip": "05. Small Shop\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:57:45.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\04. Personal Titles\\Program.cs",
+              "RelativeDocumentMoniker": "04. Personal Titles\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\04. Personal Titles\\Program.cs",
+              "RelativeToolTip": "04. Personal Titles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:35:54.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\09. Fruit or Vegetable\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fruit or Vegetable\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\09. Fruit or Vegetable\\Program.cs",
+              "RelativeToolTip": "09. Fruit or Vegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:32:56.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\03. Animal Type\\Program.cs",
+              "RelativeDocumentMoniker": "03. Animal Type\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\03. Animal Type\\Program.cs",
+              "RelativeToolTip": "03. Animal Type\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:31:13.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\01. Day of Week\\Program.cs",
+              "RelativeDocumentMoniker": "01. Day of Week\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\01. Day of Week\\Program.cs",
+              "RelativeToolTip": "01. Day of Week\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:19:22.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory 3week\\02. Weekend or Working Day\\Program.cs",
+              "RelativeDocumentMoniker": "02. Weekend or Working Day\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory 3week\\02. Weekend or Working Day\\Program.cs",
+              "RelativeToolTip": "02. Weekend or Working Day\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:01:30.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

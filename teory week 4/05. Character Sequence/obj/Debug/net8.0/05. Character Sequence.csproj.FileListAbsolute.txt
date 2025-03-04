@@ -1,0 +1,14 @@
+F:\cmd\teory week 4\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.exe
+F:\cmd\teory week 4\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.deps.json
+F:\cmd\teory week 4\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.runtimeconfig.json
+F:\cmd\teory week 4\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.dll
+F:\cmd\teory week 4\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.pdb
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.AssemblyInfoInputs.cache
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.AssemblyInfo.cs
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.dll
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\refint\05. Character Sequence.dll
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.pdb
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.genruntimeconfig.cache
+F:\cmd\teory week 4\05. Character Sequence\obj\Debug\net8.0\ref\05. Character Sequence.dll

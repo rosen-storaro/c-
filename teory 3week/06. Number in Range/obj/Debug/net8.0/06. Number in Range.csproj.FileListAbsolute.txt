@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\06. Number in Range\bin\Debug\net8.0\06. Number in Range.exe
+F:\cmd\teory 3week\06. Number in Range\bin\Debug\net8.0\06. Number in Range.deps.json
+F:\cmd\teory 3week\06. Number in Range\bin\Debug\net8.0\06. Number in Range.runtimeconfig.json
+F:\cmd\teory 3week\06. Number in Range\bin\Debug\net8.0\06. Number in Range.dll
+F:\cmd\teory 3week\06. Number in Range\bin\Debug\net8.0\06. Number in Range.pdb
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.AssemblyInfo.cs
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.dll
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\refint\06. Number in Range.dll
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.pdb
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\06. Number in Range.genruntimeconfig.cache
+F:\cmd\teory 3week\06. Number in Range\obj\Debug\net8.0\ref\06. Number in Range.dll

@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\07. Working Hours\bin\Debug\net8.0\07. Working Hours.exe
+F:\cmd\teory 3week\07. Working Hours\bin\Debug\net8.0\07. Working Hours.deps.json
+F:\cmd\teory 3week\07. Working Hours\bin\Debug\net8.0\07. Working Hours.runtimeconfig.json
+F:\cmd\teory 3week\07. Working Hours\bin\Debug\net8.0\07. Working Hours.dll
+F:\cmd\teory 3week\07. Working Hours\bin\Debug\net8.0\07. Working Hours.pdb
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.AssemblyInfo.cs
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.dll
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\refint\07. Working Hours.dll
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.pdb
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\07. Working Hours.genruntimeconfig.cache
+F:\cmd\teory 3week\07. Working Hours\obj\Debug\net8.0\ref\07. Working Hours.dll

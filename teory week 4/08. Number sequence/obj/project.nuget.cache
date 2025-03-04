@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4Vp+SE84Y8=",
+  "success": true,
+  "projectFilePath": "F:\\cmd\\teory week 4\\08. Number sequence\\08. Number sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rosen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Rosen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Rosen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Rosen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

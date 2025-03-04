@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\cmd\\teory week 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD445C6-47D7-45BD-82A3-8D18971B271A}|03. Sum Numbers\\03. Sum Numbers.csproj|f:\\cmd\\teory week 5\\03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD445C6-47D7-45BD-82A3-8D18971B271A}|03. Sum Numbers\\03. Sum Numbers.csproj|solutionrelative:03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB2362-3C8E-400E-8053-46A6AA9C4A51}|02. Password\\02. Password.csproj|f:\\cmd\\teory week 5\\02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB2362-3C8E-400E-8053-46A6AA9C4A51}|02. Password\\02. Password.csproj|solutionrelative:02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6641BFC8-8DEE-4292-935A-2440FBDDE444}|08. Graduation\\08. Graduation.csproj|f:\\cmd\\teory week 5\\08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6641BFC8-8DEE-4292-935A-2440FBDDE444}|08. Graduation\\08. Graduation.csproj|solutionrelative:08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A3E63A-4F5D-495A-919C-8071967AF90B}|ConsoleApp1\\06. Max Number.csproj|f:\\cmd\\teory week 5\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A3E63A-4F5D-495A-919C-8071967AF90B}|ConsoleApp1\\06. Max Number.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F966B012-2666-4F5B-96FB-2843B5C9A8A2}|05. Account Balance\\05. Account Balance.csproj|f:\\cmd\\teory week 5\\05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F966B012-2666-4F5B-96FB-2843B5C9A8A2}|05. Account Balance\\05. Account Balance.csproj|solutionrelative:05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56E1882-B5F3-4C1F-AD49-71E9E0056E4F}|07. Min Number\\07. Min Number.csproj|f:\\cmd\\teory week 5\\07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56E1882-B5F3-4C1F-AD49-71E9E0056E4F}|07. Min Number\\07. Min Number.csproj|solutionrelative:07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CC8830-B1A5-4BC4-A700-B9B44558AB80}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|f:\\cmd\\teory week 5\\04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CC8830-B1A5-4BC4-A700-B9B44558AB80}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|solutionrelative:04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857063C5-093B-4A78-8B85-7FB32BAA0C7B}|01. Read Text\\01. Read Text.csproj|f:\\cmd\\teory week 5\\01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857063C5-093B-4A78-8B85-7FB32BAA0C7B}|01. Read Text\\01. Read Text.csproj|solutionrelative:01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\08. Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08. Graduation\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\08. Graduation\\Program.cs",
+              "RelativeToolTip": "08. Graduation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:06:06.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\07. Min Number\\Program.cs",
+              "RelativeDocumentMoniker": "07. Min Number\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\07. Min Number\\Program.cs",
+              "RelativeToolTip": "07. Min Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:05:54.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:05:21.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\05. Account Balance\\Program.cs",
+              "RelativeDocumentMoniker": "05. Account Balance\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\05. Account Balance\\Program.cs",
+              "RelativeToolTip": "05. Account Balance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:04:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sequence 2k\u002B1\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04. Sequence 2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:04:11.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\03. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Numbers\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\03. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "03. Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:03:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\02. Password\\Program.cs",
+              "RelativeDocumentMoniker": "02. Password\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\02. Password\\Program.cs",
+              "RelativeToolTip": "02. Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:03:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\teory week 5\\01. Read Text\\Program.cs",
+              "RelativeDocumentMoniker": "01. Read Text\\Program.cs",
+              "ToolTip": "F:\\cmd\\teory week 5\\01. Read Text\\Program.cs",
+              "RelativeToolTip": "01. Read Text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:02:28.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

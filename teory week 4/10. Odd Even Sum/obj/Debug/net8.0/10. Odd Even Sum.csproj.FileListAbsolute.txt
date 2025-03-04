@@ -1,0 +1,14 @@
+F:\cmd\teory week 4\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.exe
+F:\cmd\teory week 4\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.deps.json
+F:\cmd\teory week 4\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.runtimeconfig.json
+F:\cmd\teory week 4\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.dll
+F:\cmd\teory week 4\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.pdb
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.AssemblyInfo.cs
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.dll
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\refint\10. Odd Even Sum.dll
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.pdb
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.genruntimeconfig.cache
+F:\cmd\teory week 4\10. Odd Even Sum\obj\Debug\net8.0\ref\10. Odd Even Sum.dll

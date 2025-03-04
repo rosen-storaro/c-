@@ -1,0 +1,14 @@
+F:\cmd\teory 3week\05. Small Shop\bin\Debug\net8.0\05. Small Shop.exe
+F:\cmd\teory 3week\05. Small Shop\bin\Debug\net8.0\05. Small Shop.deps.json
+F:\cmd\teory 3week\05. Small Shop\bin\Debug\net8.0\05. Small Shop.runtimeconfig.json
+F:\cmd\teory 3week\05. Small Shop\bin\Debug\net8.0\05. Small Shop.dll
+F:\cmd\teory 3week\05. Small Shop\bin\Debug\net8.0\05. Small Shop.pdb
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.AssemblyInfoInputs.cache
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.AssemblyInfo.cs
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.csproj.CoreCompileInputs.cache
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.dll
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\refint\05. Small Shop.dll
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.pdb
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\05. Small Shop.genruntimeconfig.cache
+F:\cmd\teory 3week\05. Small Shop\obj\Debug\net8.0\ref\05. Small Shop.dll

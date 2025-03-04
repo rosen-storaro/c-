@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\cmd\\2 week teory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC0A5D6-B0D8-4B5C-A6CD-7FCAD904A74A}|06. Speed Info\\06. Speed Info.csproj|f:\\cmd\\2 week teory\\06. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC0A5D6-B0D8-4B5C-A6CD-7FCAD904A74A}|06. Speed Info\\06. Speed Info.csproj|solutionrelative:06. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAA6535-FBB5-4F18-B8B3-D06B355ADCA4}|01. Excellent Result\\01. Excellent Result.csproj|f:\\cmd\\2 week teory\\01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAA6535-FBB5-4F18-B8B3-D06B355ADCA4}|01. Excellent Result\\01. Excellent Result.csproj|solutionrelative:01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D031935A-5CD3-4E42-8E1A-E39E9D57D029}|02. Greater Number\\02. Greater Number.csproj|f:\\cmd\\2 week teory\\02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D031935A-5CD3-4E42-8E1A-E39E9D57D029}|02. Greater Number\\02. Greater Number.csproj|solutionrelative:02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE51E63C-D6D0-4B53-BF63-F99BDC9AB87A}|03. Even or Odd\\03. Even or Odd.csproj|f:\\cmd\\2 week teory\\03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE51E63C-D6D0-4B53-BF63-F99BDC9AB87A}|03. Even or Odd\\03. Even or Odd.csproj|solutionrelative:03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2F12B5-D731-46BA-B2EB-D5A8EDE31E59}|04. Password Guess\\04. Password Guess.csproj|f:\\cmd\\2 week teory\\04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2F12B5-D731-46BA-B2EB-D5A8EDE31E59}|04. Password Guess\\04. Password Guess.csproj|solutionrelative:04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F11AF5-427D-43BD-978D-35CEDCC75797}|05. Number 100.200\\05. Number 100.200.csproj|f:\\cmd\\2 week teory\\05. number 100.200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F11AF5-427D-43BD-978D-35CEDCC75797}|05. Number 100.200\\05. Number 100.200.csproj|solutionrelative:05. number 100.200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B64BD65-98C4-4537-B850-564B0C570015}|07. Area of Figures\\07. Area of Figures.csproj|f:\\cmd\\2 week teory\\07. area of figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B64BD65-98C4-4537-B850-564B0C570015}|07. Area of Figures\\07. Area of Figures.csproj|solutionrelative:07. area of figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\06. Speed Info\\Program.cs",
+              "RelativeDocumentMoniker": "06. Speed Info\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\06. Speed Info\\Program.cs",
+              "RelativeToolTip": "06. Speed Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:59:51.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\07. Area of Figures\\Program.cs",
+              "RelativeDocumentMoniker": "07. Area of Figures\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\07. Area of Figures\\Program.cs",
+              "RelativeToolTip": "07. Area of Figures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:12:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\05. Number 100.200\\Program.cs",
+              "RelativeDocumentMoniker": "05. Number 100.200\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\05. Number 100.200\\Program.cs",
+              "RelativeToolTip": "05. Number 100.200\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:43:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\04. Password Guess\\Program.cs",
+              "RelativeDocumentMoniker": "04. Password Guess\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\04. Password Guess\\Program.cs",
+              "RelativeToolTip": "04. Password Guess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:49:34.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\03. Even or Odd\\Program.cs",
+              "RelativeDocumentMoniker": "03. Even or Odd\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\03. Even or Odd\\Program.cs",
+              "RelativeToolTip": "03. Even or Odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:47:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\02. Greater Number\\Program.cs",
+              "RelativeDocumentMoniker": "02. Greater Number\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\02. Greater Number\\Program.cs",
+              "RelativeToolTip": "02. Greater Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:33:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\cmd\\2 week teory\\01. Excellent Result\\Program.cs",
+              "RelativeDocumentMoniker": "01. Excellent Result\\Program.cs",
+              "ToolTip": "F:\\cmd\\2 week teory\\01. Excellent Result\\Program.cs",
+              "RelativeToolTip": "01. Excellent Result\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:37:26.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

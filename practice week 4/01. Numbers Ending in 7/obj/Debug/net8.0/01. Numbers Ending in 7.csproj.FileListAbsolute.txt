@@ -1,0 +1,14 @@
+F:\cmd\practice week 4\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.exe
+F:\cmd\practice week 4\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.deps.json
+F:\cmd\practice week 4\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.runtimeconfig.json
+F:\cmd\practice week 4\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.dll
+F:\cmd\practice week 4\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.pdb
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.AssemblyInfo.cs
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.dll
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\refint\01. Numbers Ending in 7.dll
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.pdb
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.genruntimeconfig.cache
+F:\cmd\practice week 4\01. Numbers Ending in 7\obj\Debug\net8.0\ref\01. Numbers Ending in 7.dll

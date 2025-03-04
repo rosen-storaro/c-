@@ -1,0 +1,14 @@
+F:\cmd\2 week teory\06. Speed Info\bin\Debug\net8.0\06. Speed Info.exe
+F:\cmd\2 week teory\06. Speed Info\bin\Debug\net8.0\06. Speed Info.deps.json
+F:\cmd\2 week teory\06. Speed Info\bin\Debug\net8.0\06. Speed Info.runtimeconfig.json
+F:\cmd\2 week teory\06. Speed Info\bin\Debug\net8.0\06. Speed Info.dll
+F:\cmd\2 week teory\06. Speed Info\bin\Debug\net8.0\06. Speed Info.pdb
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.AssemblyInfoInputs.cache
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.AssemblyInfo.cs
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.csproj.CoreCompileInputs.cache
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.dll
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\refint\06. Speed Info.dll
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.pdb
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\06. Speed Info.genruntimeconfig.cache
+F:\cmd\2 week teory\06. Speed Info\obj\Debug\net8.0\ref\06. Speed Info.dll

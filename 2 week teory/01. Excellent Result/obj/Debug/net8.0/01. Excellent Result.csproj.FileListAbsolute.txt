@@ -1,0 +1,14 @@
+F:\cmd\2 week teory\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.exe
+F:\cmd\2 week teory\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.deps.json
+F:\cmd\2 week teory\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.runtimeconfig.json
+F:\cmd\2 week teory\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.dll
+F:\cmd\2 week teory\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.pdb
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.AssemblyInfoInputs.cache
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.AssemblyInfo.cs
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.csproj.CoreCompileInputs.cache
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.dll
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\refint\01. Excellent Result.dll
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.pdb
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.genruntimeconfig.cache
+F:\cmd\2 week teory\01. Excellent Result\obj\Debug\net8.0\ref\01. Excellent Result.dll

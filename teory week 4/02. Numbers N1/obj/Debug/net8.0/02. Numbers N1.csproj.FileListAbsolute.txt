@@ -1,0 +1,14 @@
+F:\cmd\teory week 4\02. Numbers N1\bin\Debug\net8.0\02. Numbers N1.exe
+F:\cmd\teory week 4\02. Numbers N1\bin\Debug\net8.0\02. Numbers N1.deps.json
+F:\cmd\teory week 4\02. Numbers N1\bin\Debug\net8.0\02. Numbers N1.runtimeconfig.json
+F:\cmd\teory week 4\02. Numbers N1\bin\Debug\net8.0\02. Numbers N1.dll
+F:\cmd\teory week 4\02. Numbers N1\bin\Debug\net8.0\02. Numbers N1.pdb
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.AssemblyInfoInputs.cache
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.AssemblyInfo.cs
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.dll
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\refint\02. Numbers N1.dll
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.pdb
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\02. Numbers N1.genruntimeconfig.cache
+F:\cmd\teory week 4\02. Numbers N1\obj\Debug\net8.0\ref\02. Numbers N1.dll

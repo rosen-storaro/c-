@@ -1,0 +1,14 @@
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\bin\Debug\net8.0\03. Numbers 1.N with Step 3.exe
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\bin\Debug\net8.0\03. Numbers 1.N with Step 3.deps.json
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\bin\Debug\net8.0\03. Numbers 1.N with Step 3.runtimeconfig.json
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\bin\Debug\net8.0\03. Numbers 1.N with Step 3.dll
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\bin\Debug\net8.0\03. Numbers 1.N with Step 3.pdb
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.AssemblyInfoInputs.cache
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.AssemblyInfo.cs
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.dll
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\refint\03. Numbers 1.N with Step 3.dll
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.pdb
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\03. Numbers 1.N with Step 3.genruntimeconfig.cache
+F:\cmd\teory week 4\03. Numbers 1.N with Step 3\obj\Debug\net8.0\ref\03. Numbers 1.N with Step 3.dll

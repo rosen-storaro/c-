@@ -1,0 +1,14 @@
+F:\cmd\teory week 4\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.exe
+F:\cmd\teory week 4\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.deps.json
+F:\cmd\teory week 4\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.runtimeconfig.json
+F:\cmd\teory week 4\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.dll
+F:\cmd\teory week 4\01. Numbers from 1 to 100\bin\Debug\net8.0\01. Numbers from 1 to 100.pdb
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.dll
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\refint\01. Numbers from 1 to 100.dll
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.pdb
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\01. Numbers from 1 to 100.genruntimeconfig.cache
+F:\cmd\teory week 4\01. Numbers from 1 to 100\obj\Debug\net8.0\ref\01. Numbers from 1 to 100.dll
